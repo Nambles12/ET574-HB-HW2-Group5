@@ -1,3 +1,5 @@
 2,task, open, Task B , Ridley,,,
 ID,TYPE, COMMIT #, STATUS, DESCRIPTION,REPORTER,ASSIGNEE, RESOLVED
 2, task,  33b15a7 , closed,  Task b,          , Ridley ,  29-sep,
+ID, TYPE, COMMIT #, STATUS, DESCRIPTION,REPORTER,ASSIGNEE,RESOLVED
+2,  TASK, ba8b624  ,closed, task C,              Ridley,   29-sep
