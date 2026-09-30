@@ -1,5 +1,7 @@
-2,task, open, Task B , Ridley,,,
-ID,TYPE, COMMIT #, STATUS, DESCRIPTION,REPORTER,ASSIGNEE, RESOLVED
-2, task,  33b15a7 , closed,  Task b,          , Ridley ,  29-sep,
-ID, TYPE, COMMIT #, STATUS, DESCRIPTION,REPORTER,ASSIGNEE,RESOLVED
-2,  TASK, ba8b624  ,closed, task C,              Ridley,   29-sep
+ID,TYPE,COMMIT,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED
+1,Task,8253f7a,Closed,Task A,,Ridley,2026-09-28,2026-09-28,2026-09-28
+2,Task,6707dc2,Closed,Task A,,Nevaeh,2026-09-29,2026-09-29,2026-09-29
+3,Task,33b15a7,Closed,Task B,,Ridley,2026-09-29,2026-09-29,2026-09-29
+4,Task,9efe647,Closed,Task B,,Nevaeh,2026-09-29,2026-09-29,2026-09-29
+5,Task,ba8b624,Closed,Task C,,Ridley,2026-09-29,2026-09-29,2026-09-29
+6,Task,7f48c47,Closed,Task C,,Nevaeh,2026-09-29,2026-09-29,2026-09-29
